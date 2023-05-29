@@ -1,0 +1,29 @@
+.container
+{
+    margin:10px;
+    padding:10px;
+}
+img
+{
+    width:50px;
+    height: 60px;
+}
+
+.product-card
+{
+    width:20%;
+    border:solid 2px rgb(158, 156, 156);
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.card-title p{
+   
+ font-weight: bold;
+}
+
+.product-wrapper
+{
+    display: flex;
+    justify-content: space-between;
+}
